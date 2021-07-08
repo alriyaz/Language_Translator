@@ -1,0 +1,1 @@
+ french_translation = translation_result['translations'][0]['translation']
